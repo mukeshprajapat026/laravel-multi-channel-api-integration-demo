@@ -145,6 +145,6 @@ If you’re looking to automate Shopify + Amazon workflows or build multi-channe
 
 ## 📬 Contact
 
-Portfolio: https://yourwebsite.com  
-LinkedIn: https://linkedin.com/in/yourprofile  
-GitHub: https://github.com/yourusername
+Portfolio: https://mukeshprajapat026.github.io/  
+LinkedIn: https://www.linkedin.com/in/mukesh-k-prajapat/  
+GitHub: https://github.com/mukeshprajapat026
