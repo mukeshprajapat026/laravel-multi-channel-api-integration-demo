@@ -54,6 +54,8 @@ The primary goal was to eliminate manual order processing and prevent inventory 
 ---
 
 ## 📂 Project Structure (Demo)
+
+```
 app/
 ├── Services/
 │ ├── ShopifyService.php
@@ -68,6 +70,7 @@ app/
 │ ├── Order.php
 │ ├── SkuMapping.php
 │ └── MarketplaceAccount.php
+```
 
 ---
 
